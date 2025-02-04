@@ -1,1 +1,1 @@
-Program will print the hardcoded AI response to the hardcoded sample transcription.
+Program will print the AI response to the hardcoded sample transcription.
