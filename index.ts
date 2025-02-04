@@ -3,5 +3,5 @@ import RESPONSE from "./openai-functions/openai-prompt";
 
 dotenv.config();
 
-// Log AI's response
+// Log hardcoded sample response to hardcoded sample transcription
 console.log(`Response:\n${RESPONSE}`);
